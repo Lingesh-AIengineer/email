@@ -1,0 +1,12 @@
+streamlit==1.42.0
+openai-whisper
+pyttsx3==2.90
+SoundFile==0.12.1
+SpeechRecognition==3.14.1
+google-api-python-client==2.118.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+transformers==4.38.2
+torch==2.5.1
+pandas==2.2.3
+altair==5.5.0
